@@ -19,7 +19,7 @@ int main(){
     int n;
     cin>>n;
     cout<<sum1(n)<<endl;
-    cout<<sum2(n)<<endl;
+    // cout<<sum2(n)<<endl;
 
     return 0;
 }

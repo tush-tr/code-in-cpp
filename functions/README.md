@@ -37,14 +37,16 @@ voting or not by comparing his age with legal voting age i.e. 18.</a></li>
 ## Problems Level-2
 
 <li><a href="que11.cpp">Sum of first n natural numbers.</a></li>
-<li><a href="que.cpp"></a></li>
-<li><a href="que.cpp"></a></li>
-<li><a href="que.cpp"></a></li>
-<li><a href="que.cpp"></a></li>
-<li><a href="que.cpp"></a></li>
-<li><a href="que.cpp"></a></li>
-<li><a href="que.cpp"></a></li>
-<li><a href="que.cpp"></a></li>
+<li><a href="que12.cpp">Check pythagorian triplet.</a></li>
+
+### Conversios
+<li><a href="que13.cpp">Binary to decimal</a></li>
+<li><a href="que13.cpp">Octal to decimal</a></li>
+<li><a href="que13.cpp">Hexadecimal to decimal</a></li>
+<li><a href="que13.cpp">Decimal to binary</a></li>
+<li><a href="que13.cpp">decimal to octal</a></li>
+<li><a href="que13.cpp">decimal to hexadecimal</a></li>
+<li><a href="que14.cpp">Add Two binary numbers</a></li>
 <li><a href="que.cpp"></a></li>
 <li><a href="que.cpp"></a></li>
 <li><a href="que.cpp"></a></li>
