@@ -5,18 +5,15 @@
 <li><a href="arrayque1.cpp">Find max and min element in an array</a></li>
 <li><a href="que2.cpp">Running sum of an array</a></li>
 
-### <li><a href="searching/searching.cpp">Searching in Arrays</a></li>
+## <a href="searching/searching.cpp">Searching in Arrays</a>
 ## <a href="sorting">Sorting in Arrays</a>
-### <li><a href="sorting/selectionsort.cpp">Selection Sort</a>
-Idea: The inner loop selects the minimum element in the unsorted array
-and places the elements in increasing order.
-</li>
-
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-
+### <li><a href="sorting/selectionsort.cpp">Selection Sort</a></li>
+### <li><a href="sorting/bubblesort.cpp">Bubble Sort</a></li>
+### <li><a href="sorting/insertionsort.cpp">Insertion Sort</a></li>
 </ul>
+
+### <a href="problemset1">Problem Set 1(Arrays)</a>
+### <a href="">Problem Set 2(Arrays)</a>
+### <a href="">Problem Set 3(Sub Arrays)</a>
+### <a href="2d-arrays">2-D Arrays and related problem set</a>
+### <a href="char-arrays">Character Arrays</a>
