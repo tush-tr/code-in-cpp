@@ -49,8 +49,11 @@ In the above example,
 4. *aptr = 20 changes the value at the memory address to 20. Value of ‘a’ gets
 changed to 20.
 
+## <a href="parith.cpp">Pointer Arithmetic</a>
 
-**Array Pointers**
+## **Array Pointers**
+
+### <a href="parray.cpp">Example of Array Pointers</a>
 
 In C++, The name of the array is a pointer that points to the first element of the
 array.
@@ -78,4 +81,24 @@ swap(&a, &b);
 cout<<a<<" "<<b<<endl;
 ```
 
+## Pointer to pointer
+We can have a variable that will store the address of a pointer variable that's called pointer to pointer.
+```C++
+int a = 10;
+int *pa = &a;
+int **ppa = &pa;
+```
+### <a href="ptop.cpp">Program to demonstrate pointer to ponter</a>
 
+## Passing pointers to functions
+We pass address pointers to the functon its called pass by reference, we pass the address of the variable not the value.
+
+```C++
+void swap(int *a, int *b){
+    int temp = *a;
+    *a = *b;
+    *b = temp;
+}
+// call this function like this
+swap(&a,&b);
+```
