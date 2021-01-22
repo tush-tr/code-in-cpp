@@ -9,8 +9,8 @@
 ### <a href="problem_set01">Pattern Based Problems using loops</a>
 ### <a href="problem_set02">Mathematics based problems</a>
 ### <a href="functions">Functions in C++</a>
-### <a href=""></a>
-### <a href=""></a>
+### <a href="arrays">Arrays-searching, sorting, 2-d arrays, character arrays and problem sets </a>
+### <a href="pointers">Pointers</a>
 ### <a href=""></a>
 ### <a href=""></a>
 ### <a href=""></a>
