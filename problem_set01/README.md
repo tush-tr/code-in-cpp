@@ -18,7 +18,7 @@
 <li><a href="problem16.cpp">Number Pattern</a></li>
 <li><a href="problem17.cpp">Star Pattern</a></li>
 <li><a href="problem18.cpp">Zig-Zag Pattern</a></li>
-<li><a href="problem01.cpp"></a></li>
+<li><a href="problem19.cpp">Number decreasing pattern</a></li>
 <li><a href="problem01.cpp"></a></li>
 <li><a href="problem01.cpp"></a></li>
 <li><a href="problem01.cpp"></a></li>
