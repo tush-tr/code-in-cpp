@@ -8,6 +8,7 @@ int main(){
 
     cout<<getbit(5,i)<<endl;
     }
-
+    
+    
     return 0;
 }

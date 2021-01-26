@@ -21,13 +21,5 @@ int main(){
 
     c = a>>2;
     cout<<"Value of 60 >> 2: "<<c<<endl;
-    
-
-
-
-
-
-
-
     return 0;
 }
