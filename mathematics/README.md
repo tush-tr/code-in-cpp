@@ -9,8 +9,12 @@
 <li><a href="problem8.cpp"> Write a program to print the ASCII value of any given character</a></li>
 <li><a href="problem9.cpp"> Write a program to display all factors of a number. 
 </a></li>
-<li><a href="problem.cpp"></a></li>
 
+## Sieve of Eratosthenes
+
+<li><a href="problem10.cpp">Find prime numbers in range n without sieve of eratosthenes.</a></li>
+
+### <li><a href="sieve.cpp">Find prime numbers in range n using <b> sieve of eratosthenes.</b></a></li>
 
 
 </ol>
