@@ -16,5 +16,14 @@
 
 ### <li><a href="sieve.cpp">Find prime numbers in range n using <b> sieve of eratosthenes.</b></a></li>
 
+<li><a href="problem11.cpp">Prime Factorization using Sieve</a></li>
+Explanation:<br>
+while( num ! = 1 ):
+We keep on dividing it with its smallest prime factor.
+The smallest prime factor is pre-calculated using a slightly modified prime sieve.
+Since we start from 2 and go on, we mark the first multiple as the spf.
+Preprocessing for Sieve: O(n log log n)<br>
+Time Complexity for factorization: O(log n)<br>
+Space Complexity: O(n)
 
 </ol>
