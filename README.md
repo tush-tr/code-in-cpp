@@ -25,7 +25,8 @@
 ## Maths
 ### <li><a href="mathematics">Reverse a number<br>Check if a number is prime or armstrong.</a>
 ### <li><a href="mathematics/sieve.cpp">Sieve of Eratosthenes. </a>
-### <li><a href="mathematics/gcd.cpp">Incluaion Exclution principles</a>
+### <li><a href="mathematics/problem12.cpp">Inclusion Exclution principle</a>
+### <li><a href="mathematics/gcd.cpp">Euclid GCD</a>
 
 <hr>
 
