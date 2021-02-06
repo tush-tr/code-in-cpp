@@ -1,9 +1,11 @@
 #include<iostream>
 using namespace std;
-
+int setbit(int n,int pos){
+    int mask = 1<<pos;
+    return n|mask;
+}
 int main(){
-    char as = '5';
-    cout<<int(as);
+    cout<<setbit(5, 1)<<endl;
 
 
     return 0;
