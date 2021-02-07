@@ -8,7 +8,6 @@ void subsets(int arr[],int n){
             }
         }
         cout<<endl;
-
     }
 }
 int main(){
