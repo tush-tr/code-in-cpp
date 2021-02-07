@@ -59,5 +59,22 @@ class Car {        // The class
 };
 ```
 
+## Destructors
+Invoked when the object goes out of scope or is explicitly destroyed by a call to delete.
+```C++
+~student(){
+      cout<<"Destructor called"<<endl;
+  }
+```
 
-
+## Operator overloading
+We can overload operators( == , + , - ,etc), to work on class objects.
+```C++
+bool operator == (student &a){
+        if(name==a.name && age == a.age && gender == a.gender){
+            return true;
+        }
+        return false;
+        
+    }
+```
