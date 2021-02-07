@@ -30,7 +30,7 @@ public:
 };
 ```
 
-## <li><a href="class4.cpp">Constructor</a>
+## <li><a href="class4.cpp">Constructor in C++</a>
 A constructor in C++ is a special method that is automatically called when an object of a class is created.<br>To create a constructor, use the same name as the class, followed by parentheses ():
 ```C++
 class MyClass {     // The class
