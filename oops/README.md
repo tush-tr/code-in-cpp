@@ -13,3 +13,51 @@ public:
 ```
 
 ### <li><a href="class2.cpp">Array of objects</a>
+
+### <li><a href="class3.cpp">Accessing private data using a function inside the class.</a>
+```C++
+class student {
+  string name;
+
+public:
+  int age;
+  void setname(string s){
+      name = s;
+  }
+  string getname() { 
+      return name; 
+  }
+};
+```
+
+## <li><a href="class4.cpp">Constructor</a>
+A constructor in C++ is a special method that is automatically called when an object of a class is created.<br>To create a constructor, use the same name as the class, followed by parentheses ():
+```C++
+class MyClass {     // The class
+  public:           // Access specifier
+    MyClass() {     // Constructor
+      cout << "Hello World!";
+    }
+};
+```
+
+### Constructor Parameters
+Constructors can also take parameters (just like regular functions), which can be useful for setting initial values for attributes.
+
+
+```C++
+class Car {        // The class
+  public:          // Access specifier
+    string brand;  // Attribute
+    string model;  // Attribute
+    int year;      // Attribute
+    Car(string x, string y, int z) { // Constructor with parameters
+      brand = x;
+      model = y;
+      year = z;
+    }
+};
+```
+
+
+
