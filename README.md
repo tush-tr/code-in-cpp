@@ -80,11 +80,15 @@
 <li> 
 
 ### <a href="">Permutation</a>
-<li>
+
 
 <hr>
 
+<li>
+
 ## <a href="">Vectors and pairs</a>
+
+
 <hr>
 
 ## Sorting Algorithms
