@@ -75,12 +75,14 @@
 ### <li><a href="">Backtracking - Rat in a maze</a>
 
 ### <li><a href="">N - Queen Problem</a>
-<hr>
+
 
 <li> 
 
-## <a href="">Permutation</a>
+### <a href="">Permutation</a>
 <li>
+
+<hr>
 
 ## <a href="">Vectors and pairs</a>
 <hr>
@@ -95,10 +97,10 @@
 
 ## Object Oriented Programming in C++
 
-### <li><a href="">Introduction to OOPs</a>
-### <li><a href="">Encapsulation</a>
-### <li><a href="">Inheritance</a>
-### <li><a href="">Polymorphism</a>
+### <li><a href="oops">Introduction to OOPs</a>
+### <li><a href="oops">Encapsulation</a>
+### <li><a href="oops">Inheritance</a>
+### <li><a href="oops">Polymorphism</a>
 
 ## Linked List
 ### <li><a href=""></a>
