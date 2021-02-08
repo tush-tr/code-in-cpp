@@ -161,3 +161,18 @@ class C : public A, public B{
 ```
 
 ### <a href="multipleinheritance.cpp">Multilevel Inheritance</a>
+```C++
+class A {
+public:
+  void funcA() { cout << "Class A" << endl; }
+};
+class B : public A{
+    public:
+    void funcB(){
+        cout<<"Class B"<<endl;
+    }
+};
+class C : public B{
+};
+```
+
