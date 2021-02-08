@@ -176,3 +176,34 @@ class C : public B{
 };
 ```
 
+### <a href="hybridinheritance.cpp">Hybrid Inheritance</a>
+```C++
+
+```
+
+<a href="polymorphism.cpp"><h1 align="center">Polymorphism</h1></a>
+
+Poly-- Many<br>
+Morphism-- forms
+
+
+
+
+
+## Compile Time 
+function overloading
+<br>Operator overloading
+<br>
+
+## Run Time
+Virtual Functions
+
+
+
+
+
+
+
+
+
+
