@@ -109,3 +109,55 @@ class.
 - Good coding practice, useful in interviews
 - Increased security of data
 ### <a href="encapsulation.cpp">Sample code</a>
+
+
+# Inheritance
+It is possible to inherit attributes and methods from one class to another.
+
+<li>Derived Class(Child): <br>
+The class that inherits from another class.
+<li>Base Class(parent): <br>
+the class being inherit from.
+
+## Types of Inheritance 
+<ol>
+<li>Single Inheritance
+<li>Multiple Inheritance
+<li>Multi level inheritance
+<li>Hybrid Inheritance
+<li>Hierarchical Inheritance
+<br>
+
+### <a href="singleinheritance.cpp"> Single Inheritance</a>
+```C++ 
+// Base Class
+class A{
+    public:
+    void func(){
+        cout<<"Inherited"<<endl;
+    }
+};
+// Derived class
+class B : public A{  
+};
+```
+
+### <a href="multipleinheritance.cpp">Multiple Inheritance</a>
+```C++
+class A{
+    public:
+    void Afunc(){
+        cout<<"Inherited from A"<<endl;
+    }
+};
+class B{
+    public:
+    void Bfunc(){
+        cout<<"Inherited from B"<<endl;
+    }
+};
+class C : public A, public B{
+};
+```
+
+### <a href="multipleinheritance.cpp">Multilevel Inheritance</a>
