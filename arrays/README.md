@@ -5,6 +5,9 @@
 <li><a href="arrayque1.cpp">Find max and min element in an array</a></li>
 <li><a href="que2.cpp">Running sum of an array</a></li>
 
+
+### <a href="operations.cpp">Operations on Array- Insertion , Deletion.</a>
+
 ## <a href="searching/searching.cpp">Searching in Arrays</a>
 ## <a href="sorting">Sorting in Arrays</a>
 ### <li><a href="sorting/selectionsort.cpp">Selection Sort</a></li>
