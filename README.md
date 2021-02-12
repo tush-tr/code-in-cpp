@@ -53,7 +53,10 @@
 ### <li><a href="strings">Strings and functions</a>
 ### <li><a href="strings/problems">String challenges</a>
 <hr>
+<li>
 
+## <a href="dynamic-arrays">Vectors and pairs</a>
+<hr>
 
 ## Bit Manipulation
 ### <li><a href="bit-manipulation">Introduction to bit-manipulation</a>
@@ -84,9 +87,7 @@
 
 <hr>
 
-<li>
 
-## <a href="">Vectors and pairs</a>
 
 
 <hr>
