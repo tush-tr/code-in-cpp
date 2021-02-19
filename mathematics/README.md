@@ -1,3 +1,5 @@
+# Mathematics
+
 <ol>
 <li><a href="problem1.cpp">Check if a number is prime or not.</a></li>
 <li><a href="problem2.cpp">Write a program in cpp to find the square root of a number.</a></li>
@@ -31,5 +33,8 @@ Space Complexity: O(n)
 <li><a href="problem12.cpp" target="_blank">Find the number of numbers in the interval [1,n] which are divisible by a or b.</a></li>
 
 ### <li><a href="gcd.cpp" target="_blank">Find the gcd of two numbers using Euclid algorithm</a></li>
+
+
+
 
 </ol>
