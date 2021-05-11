@@ -1,5 +1,63 @@
 # Object Oriented Programming in C++
 
+## Why OOPS?
+<li>C++ language was designed with the main intention of adding object-oriented features to C languae.
+<li>As the size of the program increases, readability, maintainability, and bug free nature of programs decreases.
+<li>This was the major problem with languages like C which relied upon funtions or procedures( hence the name procedural programming language).
+<li>As a result, the possiblity of not addressing the problem in an effective manner was high.
+<li>Also, as data was almost neglected, data security was easily compromised.
+<li>Using classes solves this problem by modelling program as a real world scenario.
+
+## Procedure Oriented Programming 
+<li>Consists of writing a set of instructions for the computer to follow.
+<li>Main focus is on functions and not on flow of data.
+<li>Functions can either use local or global data.
+<li>Data moves openly from function to function.
+
+## Object Oriented Programming
+<li>Works on the concept of classes and objects.
+<li>A class is a template to create objects.
+<li>Treats data as a critical element.
+<li>Decomposes the problem in objects and builds data and functions around the objects.
+
+## Basic concepts of OOPS
+### <li>Class
+Basic template of creating objects.
+
+### <li>Objects
+Basic run time entities.
+
+### <li>Data Abstraction and Encapsulation
+Wrapping data and functions into single unit. 
+
+### <li>Inheritance
+Properties of one class can be inherited into others. 
+
+### <li>Polymorphism
+Ability to take more than one forms
+
+### <li> Dynamic Binding
+Code which will execute is not known until the program runs.
+
+### <li> Message passing
+Object.message(information) call format.
+
+## Benefits of OOPS 
+<li>Better code reusability using objects and inheritance.
+<li>Principle of data hiding helps build secure systems. 
+<li>Multiple objects can co-exist without any interface .
+<li>Software complexity can be easily managed.
+
+
+
+
+
+
+
+
+<br><br>
+
+
 ## <li> <a href="class.cpp">Class in C++</a>
 ```C++
 class student {
