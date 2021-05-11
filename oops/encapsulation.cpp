@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-class myClass {
+class myClass
+{
 public:
   int a;
   void funcA() { cout << "Func A" << endl; }
@@ -14,7 +15,9 @@ private:
 protected:
   void funcC() { cout << "Func C" << endl; }
 };
-int main() {
+
+int main()
+{
   myClass a;
   a.funcA();
   a.setPrivate(14);
