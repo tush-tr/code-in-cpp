@@ -37,9 +37,7 @@
 ### <li><a href="arrays/sorting/bubblesort.cpp">Sorting in arrrays - Bubble Sort</a>
 ### <li><a href="arrays/sorting/">Sorting in arrays- Insertion Sort</a>
 ### <li><a href="arrays/problemset1">Arrays Challenges -1</a>
-### <li><a href="arrays/problemset2">Arrays Challenges -2</a>
-### <li><a href="arrays/problemset3">Arrays Challenges -3</a>
-### <li><a href="arrays/2d-arrays">2-D arrays and challenges</a>
+### <li><a href="arrays/2d-arrays">2-D arrays </a>
 ### <li><a href="arrays/char-arrays">Character Arrays</a>
 
 <hr>
@@ -64,41 +62,6 @@
 ### <li><a href="bit-manipulation/problemset2">Bit Manipulation advanced challenges</a>
 <hr>
 
-## Recursion and Backtracking
-### <li><a href="recursion-backtracking/intro">Introduction to Recursion</a>
-
-### <li><a href="recursion-backtracking/challenges">Recursion Challenges</a>
-
-### <li><a href="recursion-backtracking/best-problems">7 best problems on recursion</a>
-
-### <li><a href="recursion-backtracking/advanced-problems">Advanced recursion problems -1</a>
-
-### <li><a href="recursion-backtracking/advanced-problems">Advanced recursion problems -2</a>
-
-### <li><a href="recursion-backtracking/backtracking">Backtracking - Rat in a maze</a>
-
-### <li><a href="recursion-backtracking/backtracking">N - Queen Problem</a>
-
-
-<li> 
-
-### <a href="">Permutation</a>
-
-
-<hr>
-
-
-
-
-<hr>
-
-## Sorting Algorithms
-### <li><a href="">Merge Sort</a>
-### <li><a href="">Quick Sort</a>
-### <li><a href="">Count sort</a>
-### <li><a href="">DNF Sort</a>
-### <li><a href="">Wave Sort</a>
-### <li><a href="">Count Inversion - merge sort</a>
 
 ## Object Oriented Programming in C++
 
@@ -106,30 +69,5 @@
 ### <li><a href="oops">Encapsulation</a>
 ### <li><a href="oops">Inheritance</a>
 ### <li><a href="oops">Polymorphism</a>
-
-## Linked List
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
-### <li><a href=""></a>
 
 </ol>
