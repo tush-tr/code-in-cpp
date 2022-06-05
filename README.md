@@ -22,14 +22,6 @@
 
 <hr>
 
-## Maths
-### <li><a href="mathematics">Reverse a number<br>Check if a number is prime or armstrong.</a>
-### <li><a href="mathematics/sieve.cpp">Sieve of Eratosthenes. </a>
-### <li><a href="mathematics/problem12.cpp">Inclusion Exclution principle</a>
-### <li><a href="mathematics/gcd.cpp">Euclid GCD</a>
-
-<hr>
-
 ## Arrays
 ### <li><a href="arrays">Introduction to arrays </a>
 ### <li><a href="arrays/searching">Searching in arrays linear and binary search</a>
@@ -42,18 +34,39 @@
 
 <hr>
 
+## Strings
+### <li><a href="strings">Strings and functions</a>
+### <li><a href="strings/problems">String challenges</a>
+<hr>
+
+## Object Oriented Programming in C++
+
+### <li><a href="oops">Introduction to OOPs</a>
+### <li><a href="oops">Encapsulation</a>
+### <li><a href="oops">Inheritance</a>
+### <li><a href="oops">Polymorphism</a>
+
+<hr>
+
+
 ## DMA
 ### <li><a href="pointers">Pointers</a>
 ### <li><a href="dma">Stack and Heap Dynamic Memory Allocation</a>
 <hr>
 
-## Strings
-### <li><a href="strings">Strings and functions</a>
-### <li><a href="strings/problems">String challenges</a>
-<hr>
+
 <li>
 
 ## <a href="dynamic-arrays">Vectors and pairs</a>
+<hr>
+
+
+## Maths
+### <li><a href="mathematics">Reverse a number<br>Check if a number is prime or armstrong.</a>
+### <li><a href="mathematics/sieve.cpp">Sieve of Eratosthenes. </a>
+### <li><a href="mathematics/problem12.cpp">Inclusion Exclution principle</a>
+### <li><a href="mathematics/gcd.cpp">Euclid GCD</a>
+
 <hr>
 
 ## Bit Manipulation
@@ -63,11 +76,6 @@
 <hr>
 
 
-## Object Oriented Programming in C++
 
-### <li><a href="oops">Introduction to OOPs</a>
-### <li><a href="oops">Encapsulation</a>
-### <li><a href="oops">Inheritance</a>
-### <li><a href="oops">Polymorphism</a>
 
 </ol>
