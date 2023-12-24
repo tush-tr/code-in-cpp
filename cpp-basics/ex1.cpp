@@ -13,5 +13,4 @@ int main(){
     float area;
     area = float(b*h)/2;
     cout<<area<<endl;
-
 }
