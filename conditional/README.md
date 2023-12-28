@@ -1,0 +1,20 @@
+# Conditional Statements
+## Programs
+- [Maximum of 2 numbers.](prog1.cpp)
+- [Number is positive or negative](prog2.cpp)
+- [Check number is even or odd](prog3.cpp)
+- [Check if working hours](prog4.cpp)
+- [Check age of a person](prog5.cpp)
+- [Check if a person is eligible for offer](prog6.cpp)
+- [find max of 3 numbers](prog7.cpp)
+- [Find nature of quadratic roots](prog8.cpp)
+- [Display grades of students marks](prog9.cpp)
+- [Calculate discounted bill amount](prog10.cpp)
+- [Display day name](prog11.cpp)
+- [Display month name](prog12.cpp)
+- [Display digit in words](prog13.cpp)
+- [Display name of a day](prog14.cpp)
+- [Program to display Day name](prog15.cpp)
+- [Progam using menu options](prog16.cpp)
+- 
+- [Arithmetic operations using switch](prog17.cpp)
