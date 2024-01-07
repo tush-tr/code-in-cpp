@@ -1,0 +1,11 @@
+# Loops in C++
+1. [Multiplication table](prog1.cpp)
+2. [Sum of N Number](prog2.cpp)
+3. [Factorial of a Number](prog3.cpp)
+4. [Factors of a number](prog4.cpp)
+5. [Perfect Number](prog5.cpp)
+6. [Find Prime Number](prog6.cpp)
+7. [Display digits of a number](prog7.cpp)
+8. [Check if a number is armstrong number](prog8.cpp)
+9. [Reverse a number](prog9.cpp)
+10. [Check if a Number is a palindrome](prog10.cpp)
